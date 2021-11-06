@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 The best way to reach me is on Github @gracekabaghe
 - 😄 Pronouns: She/her.
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracekabaghe= &theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracekabaghe&theme=radical)
